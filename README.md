@@ -1,4 +1,4 @@
-# slogger
+# SLogger
 A simple logger in C++17
 
 Usage example:
