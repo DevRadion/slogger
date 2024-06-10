@@ -8,5 +8,5 @@ log("Some error message");
 
 Output in file logs.txt: 
 ```
-[<dateAndTime>] | File: <pathToFile>(<row>) `<funcName>`: <message>
+[<dateAndTime>] | File: <pathToFile>(<line>) `<funcName>`: <message>
 ```
